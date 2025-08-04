@@ -3,8 +3,6 @@ import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:window_size/window_size.dart';
-
-import 'common/settings.dart';
 import 'common/convert_pipe.dart';
 import 'widgets/cconverter.dart';
 
