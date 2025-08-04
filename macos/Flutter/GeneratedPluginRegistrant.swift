@@ -1,5 +1,5 @@
 //
-//  Generated file. Do not edit.
+//  Generated file.
 //
 
 import FlutterMacOS
